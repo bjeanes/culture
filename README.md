@@ -21,6 +21,7 @@ Ethos
 * *People are the most important asset*
 * *Never hire for growth/hiring targets; only hire for fit*
 * *High cohesion, low coupling* — ([Highly aligned, loosly coupled](http://www.youtube.com/watch?v=o3e1lnixKBM#t=136s))
+* It doesn't matter when or how much you work, only that your peers trust you and feel like you are contributing fairly.
 
 #### Leadership
 
@@ -52,4 +53,5 @@ Inspiration
   * [Scaling GitHub Employees](http://zachholman.com/posts/how-github-works/)
   * [How GitHub Works](http://zachholman.com/posts/how-github-works/)
 * Valve [Employee Handbook](http://assets.sbnation.com/assets/1074301/Valve_Handbook_LowRes.pdf)
+* http://www.raptitude.com/2010/07/your-lifestyle-has-already-been-designed/
 
