@@ -30,6 +30,7 @@ Ethos
   * they are advocates
   * they are 3 steps ahead of team clearing obstacles
   * they inspire, not dictate
+  * managers of people, not managers of process
 
 #### Hiring
 
