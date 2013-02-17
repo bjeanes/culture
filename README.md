@@ -20,6 +20,7 @@ Ethos
 * *Responsible Autonomy*
 * *People are the most important asset*
 * *Never hire for growth/hiring targets; only hire for fit*
+* *[Highly aligned, loosly coupled](http://www.youtube.com/watch?v=o3e1lnixKBM#t=136s)*
 
 #### Leadership
 
