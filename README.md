@@ -11,7 +11,7 @@ Ethos
 * *Automate all the things!*
 * The worst thing we can do for happiness and productivity is disturb the culture. 
   The worst thing we can do to the culture, is introduce tension.
-* *Transparency*
+* *Transparency & Communication*
 * *Collaboration*
 
 ### People
@@ -26,12 +26,20 @@ Ethos
 
 * Leadership is not appointed/given, it is earned
   * You are a leader if and only if people follow you.
+* leads/managers are not bosses
+  * they are advocates
+  * they are 3 steps ahead of team clearing obstacles
+  * they inspire, not dictate
 
 #### Hiring
 
 * *Hire for culture fit first, talent second*
 * *Only hire people you can trust*
   * Policies/procedures are created when you can't trust your employees — i.e. you made bad hires.
+
+#### Compensation
+
+* Pay them as much as you would pay them to keep them from leaving for a higher-paying job
 
 Inspiration
 -----------
