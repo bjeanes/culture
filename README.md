@@ -6,21 +6,21 @@ Ethos
 
 ### General
 
-* *Make the right thing to do the easiest thing to do.*
-* *Solve problems by fixing the environment that allowed them to occur.*
-* *Automate all the things!*
+* Make the right thing to do the easiest thing to do.
+* Solve problems by fixing the environment that allowed them to occur.
+* Automate all the things!
 * The worst thing we can do for happiness and productivity is disturb the culture. 
   The worst thing we can do to the culture, is introduce tension.
-* *Transparency & Communication*
-* *Collaboration*
+* Transparency & Communication
+* Collaboration
 
 ### People
 
-* *Happiness is productivity is happiness* — at least for people who care about what they do
-* *Responsible Autonomy*
-* *People are the most important asset*
-* *Never hire for growth/hiring targets; only hire for fit*
-* *High cohesion, low coupling* — ([Highly aligned, loosly coupled](http://www.youtube.com/watch?v=o3e1lnixKBM#t=136s))
+* Happiness is productivity is happiness — at least for people who care about what they do
+* Responsible Autonomy
+* People are the most important asset
+* Never hire for growth/hiring targets; only hire for fit
+* High cohesion, low coupling* — ([Highly aligned, loosly coupled](http://www.youtube.com/watch?v=o3e1lnixKBM#t=136s))
 * It doesn't matter when or how much you work, only that your peers trust you and feel like you are contributing fairly.
 
 #### Leadership
@@ -38,8 +38,8 @@ Ethos
 * Don't hire for teams. Hire great people, let them pick the team they want to be on.
   * Team can say no
   * Bad projects who can't compel people to join them will die. Let them.
-* *Hire for culture fit first, talent second*
-* *Only hire people you can trust*
+* Hire for culture fit first, talent second
+* Only hire people you can trust
   * Policies/procedures are created when you can't trust your employees — i.e. you made bad hires.
 
 #### Compensation
