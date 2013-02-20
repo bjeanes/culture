@@ -10,7 +10,7 @@ Ethos
 * Solve problems by fixing the environment that allowed them to occur.
 * Automate all the things!
 * The worst thing we can do for happiness and productivity is disturb the culture. 
-  The worst thing we can do to the culture, is introduce tension.
+  The worst thing we can do to the culture is introduce tension.
 * Transparency & Communication
 * Collaboration
 
