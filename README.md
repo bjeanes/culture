@@ -35,6 +35,9 @@ Ethos
 
 #### Hiring
 
+* Don't hire for teams. Hire great people, let them pick the team they want to be on.
+  * Team can say no
+  * Bad projects who can't compel people to join them will die. Let them.
 * *Hire for culture fit first, talent second*
 * *Only hire people you can trust*
   * Policies/procedures are created when you can't trust your employees — i.e. you made bad hires.
