@@ -56,6 +56,7 @@ Inspiration
   * [Scaling GitHub Employees](http://zachholman.com/posts/how-github-works/)
   * [How GitHub Works](http://zachholman.com/posts/how-github-works/)
 * Valve [Employee Handbook](http://assets.sbnation.com/assets/1074301/Valve_Handbook_LowRes.pdf)
+* http://ted.io/culture.html
 * http://www.raptitude.com/2010/07/your-lifestyle-has-already-been-designed/
 
 
