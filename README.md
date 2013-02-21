@@ -58,3 +58,8 @@ Inspiration
 * Valve [Employee Handbook](http://assets.sbnation.com/assets/1074301/Valve_Handbook_LowRes.pdf)
 * http://www.raptitude.com/2010/07/your-lifestyle-has-already-been-designed/
 
+
+### Counter-points:
+
+* http://blog.prettylittlestatemachine.com/blog/2013/02/20/what-your-culture-really-says/
+
