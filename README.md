@@ -1,6 +1,10 @@
 Culture
 =======
 
+Culture isn’t created by fiat. However, culture is created and re-created by the choices made by individuals every day.
+It can be reshaped by conscious effort applied gently, subtly, and consistently (paraphrased from [comments here](http://37signals.com/svn/posts/3450#all_comments)). 
+People make the culture, so invest in your people foremost.
+
 Ethos
 -----
 
