@@ -65,6 +65,7 @@ Inspiration
 * Valve [Employee Handbook](http://assets.sbnation.com/assets/1074301/Valve_Handbook_LowRes.pdf)
 * http://ted.io/culture.html
 * http://www.raptitude.com/2010/07/your-lifestyle-has-already-been-designed/
+* http://37signals.com/svn/posts/3450 (i.e. make sure this itself isn't a policy)
 
 
 ### Counter-points:
