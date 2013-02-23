@@ -11,6 +11,11 @@ Ethos
 * Automate all the things!
 * The worst thing we can do for happiness and productivity is disturb the culture. 
   The worst thing we can do to the culture is introduce tension.
+  * There are better battles to fight than with each other. 
+  * It's hard to say objectively that one culture is "better" than another, but having the culture pulled in multiple directions clearly burns people out, so focus on cultural alignment in decisions and hiring.
+* Plan around trust; allow for mistakes
+  * If tempted to introduce a policy, ask whether or not it is needed because you don't trust everybody to do the right thing.
+  * Mistakes are OK; expect them and learn from them.
 * Transparency & Communication
 * Collaboration
 
