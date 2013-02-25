@@ -64,7 +64,7 @@ Inspiration
   * [Freedom & Responsibility](http://www.slideshare.net/reed2001/culture-1798664)
   * [A Culture of Innovation](http://www.youtube.com/watch?v=o3e1lnixKBM)
 * GitHub
-  * [Scaling GitHub Employees](http://zachholman.com/posts/how-github-works/)
+  * [Scaling GitHub Employees](http://zachholman.com/posts/scaling-github-employees/)
   * [How GitHub Works](http://zachholman.com/posts/how-github-works/)
 * Valve [Employee Handbook](http://assets.sbnation.com/assets/1074301/Valve_Handbook_LowRes.pdf)
 * http://ted.io/culture.html
