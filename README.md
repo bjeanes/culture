@@ -3,6 +3,9 @@ A lot of this is super-idealistic but over time can be toned back closer to real
 For now, it serves as a place to collect thoughts and start discussions. There are no 
 holy cows here, and everything is up for discussion or change. I'm very interested in 
 collecting others opinions, criticisms, experience, and resources.
+
+When appropriate, this will be an open document that anybody can contribute to such that
+we can describe a culture in which we'd each be able to excel.
 </i></small>
 
 Premise
