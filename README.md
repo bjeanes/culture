@@ -70,6 +70,7 @@ Inspiration
 * http://ted.io/culture.html
 * http://www.raptitude.com/2010/07/your-lifestyle-has-already-been-designed/
 * http://37signals.com/svn/posts/3450 (i.e. make sure this itself isn't a policy)
+* http://eskokilpi.blogging.fi/2013/02/24/social-business-well-being-and-management/ (I'd love a more formal representation of the studies that were hinted at, though)
 
 
 ### Counter-points:
