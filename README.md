@@ -1,3 +1,17 @@
+<small><i>
+A lot of this is super-idealistic but over time can be toned back closer to reality. 
+For now, it serves as a place to collect thoughts and start discussions. There are no 
+holy cows here, and everything is up for discussion or change. I'm very interested in 
+collecting others opinions, criticisms, experience, and resources.
+</i></small>
+
+Premise
+=======
+
+Creative/knowledge-based professionals excel in certain kinds of environments. How communication happens,
+leadership forms, and decisions are made all have a huge impact on the ability to do a good job for such
+professionals.
+
 Culture
 =======
 
