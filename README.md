@@ -55,11 +55,13 @@ Ethos
 
 * Leadership is not appointed/given, it is earned
   * You are a leader if and only if people follow you.
-* leads/managers are not bosses
-  * they are advocates
-  * they are 3 steps ahead of team clearing obstacles
-  * they inspire, not dictate
-  * managers of people, not managers of process
+* Leaders are servant leaders
+  * They treat you like a peer
+  * They make it clear that their job is to remove obstacles from your path
+  * They build trust through encouragement and participation, and never demand it
+  * They are great listeners and have a strong sense of awareness and empathy
+  * They understand that if they spend their time growing people, that they too will grow in the process
+  * They convince others rather than coercing compliance
 
 #### Hiring
 
