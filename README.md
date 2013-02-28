@@ -1,7 +1,7 @@
 <small><i>
-A lot of this is super-idealistic but over time can be toned back closer to reality. 
-For now, it serves as a place to collect thoughts and start discussions. There are no 
-holy cows here, and everything is up for discussion or change. I'm very interested in 
+A lot of this is super-idealistic but over time can be toned back closer to reality.
+For now, it serves as a place to collect thoughts and start discussions. There are no
+holy cows here, and everything is up for discussion or change. I'm very interested in
 collecting others opinions, criticisms, experience, and resources.
 
 When appropriate, this will be an open document that anybody can contribute to such that
@@ -19,7 +19,7 @@ Culture
 =======
 
 Culture isn’t created by fiat. However, culture is created and re-created by the choices made by individuals every day.
-It can be reshaped by conscious effort applied gently, subtly, and consistently (paraphrased from [comments here](http://37signals.com/svn/posts/3450#all_comments)). 
+It can be reshaped by conscious effort applied gently, subtly, and consistently (paraphrased from [comments here](http://37signals.com/svn/posts/3450#all_comments)).
 People make the culture, so invest in your people foremost.
 
 Ethos
@@ -30,15 +30,15 @@ Ethos
 * Make the right thing to do the easiest thing to do.
 * Solve problems by fixing the environment that allowed them to occur.
 * Automate all the things!
-* The worst thing we can do for happiness and productivity is disturb the culture. 
+* The worst thing we can do for happiness and productivity is disturb the culture.
   The worst thing we can do to the culture is introduce tension.
-  * There are better battles to fight than with each other. 
+  * There are better battles to fight than with each other.
   * It's hard to say objectively that one culture is "better" than another, but having the culture pulled in multiple directions clearly burns people out, so focus on cultural alignment in decisions and hiring.
 * Plan around trust; allow for mistakes
   * If tempted to introduce a policy, ask whether or not it is needed because you don't trust everybody to do the right thing.
   * Mistakes are OK; expect them and learn from them.
 * Transparency & Communication
-  * Lack of transparency alienates people and fosters resentment. 
+  * Lack of transparency alienates people and fosters resentment.
   * Being upfront about risks, drawbacks, failings, etc., shows trust and fosters loyalty.
 * Collaboration
 
@@ -88,6 +88,7 @@ Inspiration
 * http://www.raptitude.com/2010/07/your-lifestyle-has-already-been-designed/
 * http://37signals.com/svn/posts/3450 (i.e. make sure this itself isn't a policy)
 * http://eskokilpi.blogging.fi/2013/02/24/social-business-well-being-and-management/ (I'd love a more formal representation of the studies that were hinted at, though)
+* http://www.dan-manges.com/blog/2013/salaries-and-raises
 
 
 ### Counter-points:
