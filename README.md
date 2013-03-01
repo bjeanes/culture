@@ -37,7 +37,7 @@ Ethos
 * Perhaps the worst thing we can do for culture is try to preserve it.
   * Times change, trends change, cultures change
   * Culture change will happen
-  * 20% of culture is fast-changing, 80% is slow-changing from (Leadership Conversations(http://www.amazon.com/Leadership-Conversations-Challenging-Potential-ebook/dp/B00AVZJV2C/))
+  * 20% of culture is fast-changing, 80% is slow-changing from [Leadership Conversations](http://www.amazon.com/Leadership-Conversations-Challenging-Potential-ebook/dp/B00AVZJV2C/)
 * Plan around trust; allow for mistakes
   * If tempted to introduce a policy, ask whether or not it is needed because you don't trust everybody to do the right thing.
   * Mistakes are OK; expect them and learn from them.
