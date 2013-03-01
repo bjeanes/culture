@@ -78,7 +78,8 @@ Ethos
 
 #### Compensation
 
-* Pay them as much as you would pay them to keep them from leaving for a higher-paying job
+* [Pay them as much as you would pay them to keep them from leaving for a higher-paying job](http://www.dan-manges.com/blog/2013/salaries-and-raises)
+* Give them the tools they need to succeed. Buy big monitors, comfortable chairs, fast computers, healthy food. 
 
 Inspiration
 -----------
@@ -89,17 +90,21 @@ Inspiration
 * GitHub
   * [Scaling GitHub Employees](http://zachholman.com/posts/scaling-github-employees/)
   * [How GitHub Works](http://zachholman.com/posts/how-github-works/)
-* Valve [Employee Handbook](http://assets.sbnation.com/assets/1074301/Valve_Handbook_LowRes.pdf)
-* http://ted.io/culture.html
-* http://www.raptitude.com/2010/07/your-lifestyle-has-already-been-designed/
-* http://37signals.com/svn/posts/3450 (i.e. make sure this itself isn't a policy)
-* http://eskokilpi.blogging.fi/2013/02/24/social-business-well-being-and-management/ (I'd love a more formal representation of the studies that were hinted at, though)
-* http://www.dan-manges.com/blog/2013/salaries-and-raises
+* Valve 
+  * [Employee Handbook](http://assets.sbnation.com/assets/1074301/Valve_Handbook_LowRes.pdf)
+* 37 Signals
+  * [You don't create a culture](http://37signals.com/svn/posts/1022-you-dont-create-a-culture)
+  * [Make sure culture isn't policy](http://37signals.com/svn/posts/3450)
+
+* [Culture - Ted Nyman](http://ted.io/culture.html)
+* [Your lifestyle has already been designed](http://www.raptitude.com/2010/07/your-lifestyle-has-already-been-designed/)
+* [Social business well being and management](http://eskokilpi.blogging.fi/2013/02/24/social-business-well-being-and-management/) (I'd love a more formal representation of the studies that were hinted at, though)
+* [Salaries and Raises - Dan Manges from Braintree](http://www.dan-manges.com/blog/2013/salaries-and-raises)
 
 
 ### Counter-points:
 
-* http://blog.prettylittlestatemachine.com/blog/2013/02/20/what-your-culture-really-says/
+* [What your culture really says](http://blog.prettylittlestatemachine.com/blog/2013/02/20/what-your-culture-really-says/)
 
 ### Considerations
 * Culture aren't like prototypes, you can't through them away. How do you experiment to find the right culture?
