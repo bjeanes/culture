@@ -95,12 +95,10 @@ Inspiration
 * 37 Signals
   * [You don't create a culture](http://37signals.com/svn/posts/1022-you-dont-create-a-culture)
   * [Make sure culture isn't policy](http://37signals.com/svn/posts/3450)
-
 * [Culture - Ted Nyman](http://ted.io/culture.html)
 * [Your lifestyle has already been designed](http://www.raptitude.com/2010/07/your-lifestyle-has-already-been-designed/)
 * [Social business well being and management](http://eskokilpi.blogging.fi/2013/02/24/social-business-well-being-and-management/) (I'd love a more formal representation of the studies that were hinted at, though)
 * [Salaries and Raises - Dan Manges from Braintree](http://www.dan-manges.com/blog/2013/salaries-and-raises)
-
 
 ### Counter-points:
 
