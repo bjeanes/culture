@@ -79,7 +79,7 @@ Ethos
 #### Compensation
 
 * [Pay them as much as you would pay them to keep them from leaving for a higher-paying job](http://www.dan-manges.com/blog/2013/salaries-and-raises)
-* Give them the tools they need to succeed. Buy big monitors, comfortable chairs, fast computers, healthy food. 
+* Trust your employees to be professionals who know what they need to excel — be it bigger monitors, comfortable chairs, or healthier food. 
 
 Inspiration
 -----------
