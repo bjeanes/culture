@@ -24,6 +24,12 @@ There are no holy cows here, and everything is up for discussion or change.
 I'm very interested in collecting others opinions, criticisms, experience,
 and resources.
 
+## Disclaimer
+
+This work does not necessarily reflect the opinions of the contributors'
+current places of employment, nor should any part be taken as statements
+about such employers.
+
 ## License
 
 <a rel="license"
