@@ -88,7 +88,7 @@ Inspiration
 * [What your culture really says](http://blog.prettylittlestatemachine.com/blog/2013/02/20/what-your-culture-really-says/)
 
 ### Considerations
-* Culture aren't like prototypes, you can't through them away. How do you experiment to find the right culture?
+* Culture aren't like prototypes, you can't throw them away. How do you experiment to find the right culture?
 * Being strict and intensive about hiring, but what about identifying bad hires and handling this once they're in?
 * Companies with good 'chaotic' cultures seem to dogfood or have a close relationship with what they're building (eg Github). Is this a prereq for effective culture? This would mean that only engineer probs would get solved.
 * What's the balance between hiring "culture-fits" to reduce cultural tension and forming a mono-culture?
