@@ -33,6 +33,7 @@ Ethos
 
 * Happiness is productivity is happiness — at least for people who care about what they do
 * Responsible Autonomy
+  * Make it very easy for individuals to see how the work they are doing is affecting the larger team/company goal. This provides a much tighter feedback loop than annual reviews & self-assessments.
 * People are the most important asset
 * Never hire for growth/hiring targets; only hire for fit
 * High cohesion, low coupling — ([Highly aligned, loosly coupled](http://www.youtube.com/watch?v=o3e1lnixKBM#t=136s))
