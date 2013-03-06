@@ -37,6 +37,7 @@ Ethos
 * Never hire for growth/hiring targets; only hire for fit
 * High cohesion, low coupling — ([Highly aligned, loosly coupled](http://www.youtube.com/watch?v=o3e1lnixKBM#t=136s))
 * It doesn't matter when or how much you work, only that your peers trust you and feel like you are contributing fairly.
+* Employees are respected before, during, and after employment. Candidates and apprentices become teammates. Teammates become alumni.
 
 #### Leadership
 
