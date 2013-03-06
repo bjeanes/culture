@@ -33,9 +33,10 @@ Ethos
 
 * Happiness is productivity is happiness — at least for people who care about what they do
 * Responsible Autonomy
+  * Make it very easy for individuals to see how the work they are doing is affecting the larger team/company goal. This provides a much tighter feedback loop than annual reviews & self-assessments.
 * People are the most important asset
 * Never hire for growth/hiring targets; only hire for fit
-* High cohesion, low coupling — ([Highly aligned, loosly coupled](http://www.youtube.com/watch?v=o3e1lnixKBM#t=136s))
+* High cohesion, low coupling — ([Highly aligned, loosely coupled](http://www.youtube.com/watch?v=o3e1lnixKBM#t=136s))
 * It doesn't matter when or how much you work, only that your peers trust you and feel like you are contributing fairly.
 * Employees are respected before, during, and after employment. Candidates and apprentices become teammates. Teammates become alumni.
 
@@ -91,5 +92,5 @@ Inspiration
 ### Considerations
 * Culture aren't like prototypes, you can't throw them away. How do you experiment to find the right culture?
 * Being strict and intensive about hiring, but what about identifying bad hires and handling this once they're in?
-* Companies with good 'chaotic' cultures seem to dogfood or have a close relationship with what they're building (eg Github). Is this a prereq for effective culture? This would mean that only engineer probs would get solved.
+* Companies with good 'chaotic' cultures seem to dogfood or have a close relationship with what they're building (e.g. Github). Is this a prerequisite for effective culture? This would mean that only engineer problems would get solved.
 * What's the balance between hiring "culture-fits" to reduce cultural tension and forming a mono-culture?
