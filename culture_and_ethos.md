@@ -80,6 +80,7 @@ Inspiration
 * 37 Signals
   * [You don't create a culture](http://37signals.com/svn/posts/1022-you-dont-create-a-culture)
   * [Make sure culture isn't policy](http://37signals.com/svn/posts/3450)
+  * [B- environment merits B- effort](http://37signals.com/svn/posts/3461-b-environment-merits-b-effort)
 * [Culture - Ted Nyman](http://ted.io/culture.html)
 * [Your lifestyle has already been designed](http://www.raptitude.com/2010/07/your-lifestyle-has-already-been-designed/)
 * [Social business well being and management](http://eskokilpi.blogging.fi/2013/02/24/social-business-well-being-and-management/) (I'd love a more formal representation of the studies that were hinted at, though)
