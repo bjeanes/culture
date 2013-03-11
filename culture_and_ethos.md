@@ -89,6 +89,7 @@ Inspiration
 * [Social business well being and management](http://eskokilpi.blogging.fi/2013/02/24/social-business-well-being-and-management/) (I'd love a more formal representation of the studies that were hinted at, though)
 * [Salaries and Raises - Dan Manges from Braintree](http://www.dan-manges.com/blog/2013/salaries-and-raises)
 * [What Company Culture IS and IS NOT](http://moz.com/rand/what-company-culture-is-and-is-not/)
+* [Never, Ever Compromise: Hiring For Culture Fit](http://blog.eladgil.com/2012/04/never-ever-compromise-hiring-for.html)
 * [Why firing brilliant assholes is required to build a great engineering culture - Joe Stump of sprint.ly](http://firstround.com/article/why-firing-brilliant-assholes-is-required-to-build-a-great-engineering-culture)
 * [Kellan Elliott-McCrea of Etsy on Crafting a Strong Engineering Culture](https://www.path.to/inspiration/kellan-elliott-mccrea-etsy)
 
