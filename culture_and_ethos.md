@@ -58,6 +58,7 @@ Ethos
   * Team can say no
   * Bad projects who can't compel people to join them will die. Let them.
 * Hire for culture fit first, talent second
+* Hire with "hell yes or no" mentality
 * Only hire people you can trust
   * Policies/procedures are created when you can't trust your employees — i.e. you made bad hires.
 
