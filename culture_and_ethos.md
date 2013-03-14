@@ -28,6 +28,7 @@ Ethos
   * Lack of transparency alienates people and fosters resentment.
   * Being upfront about risks, drawbacks, failings, etc., shows trust and fosters loyalty.
 * Collaboration
+* Don't avoid hard converrations
 
 ### People
 
