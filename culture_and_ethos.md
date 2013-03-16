@@ -86,6 +86,19 @@ Inspiration
 * Gore
   * [W.L. Gore: Lessons from a Management Revolutionary - Part 1](http://blogs.wsj.com/management/2010/03/18/wl-gore-lessons-from-a-management-revolutionary/)
   * [W.L. Gore: Lessons from a Management Revolutionary - Part 2](http://blogs.wsj.com/management/2010/04/02/wl-gore-lessons-from-a-management-revolutionary-part-2/)
+  * [Nurturing a Vibrant Culture to Drive Innovation](http://video.mit.edu/watch/nurturing-a-vibrant-culture-to-drive-innovation-9405/)
+  * [The Lattice Organization](http://www2.stetson.edu/~bboozer/Gore_lattice.pdf)
+
+    > A lattice organization is one that involves direct
+    transactions, self-commitment, natural leadership,
+    and lacks assigned or assumed authority. . . Every
+    successful organization has a lattice organization
+    that underlies the façade of authoritarian hierarchy.
+    It is through these lattice organizations that things
+    get done, and most of us delight in going around
+    the formal procedures and doing things the
+    straightforward and easy way.
+      --Bill Gore
 * [Culture - Ted Nyman](http://ted.io/culture.html)
 * [Your lifestyle has already been designed](http://www.raptitude.com/2010/07/your-lifestyle-has-already-been-designed/)
 * [Social business well being and management](http://eskokilpi.blogging.fi/2013/02/24/social-business-well-being-and-management/) (I'd love a more formal representation of the studies that were hinted at, though)
