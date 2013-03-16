@@ -68,6 +68,12 @@ Ethos
 * [Pay them as much as you would pay them to keep them from leaving for a higher-paying job](http://www.dan-manges.com/blog/2013/salaries-and-raises)
 * Trust your employees to be professionals who know what they need to excel — be it bigger monitors, comfortable chairs, or healthier food.
 
+#### Transparency
+
+* [Ultimately, if you want people to make smart decisions, they need context and all available information.](http://firstround.com/article/Keith-Rabois-on-the-role-of-a-COO-how-to-hire-and-why-transparency-matters)
+* [Transparency builds trust. Some companies try to keep protected. You end up filtering so much, your people are really disconnected](http://www.fastcompany.com/3002493/terry-kelly-un-ceo-wl-gore-how-deal-chaos-grow)
+
+
 Inspiration
 -----------
 
@@ -99,6 +105,7 @@ Inspiration
     the formal procedures and doing things the
     straightforward and easy way.
       --Bill Gore
+  * [Terry Kelly, The "Un-CEO" Of W.L. Gore, On How To Deal With Chaos: Grow Up](http://www.fastcompany.com/3002493/terry-kelly-un-ceo-wl-gore-how-deal-chaos-grow)
 * [Culture - Ted Nyman](http://ted.io/culture.html)
 * [Your lifestyle has already been designed](http://www.raptitude.com/2010/07/your-lifestyle-has-already-been-designed/)
 * [Social business well being and management](http://eskokilpi.blogging.fi/2013/02/24/social-business-well-being-and-management/) (I'd love a more formal representation of the studies that were hinted at, though)
@@ -107,6 +114,7 @@ Inspiration
 * [Never, Ever Compromise: Hiring For Culture Fit](http://blog.eladgil.com/2012/04/never-ever-compromise-hiring-for.html)
 * [Why firing brilliant assholes is required to build a great engineering culture - Joe Stump of sprint.ly](http://firstround.com/article/why-firing-brilliant-assholes-is-required-to-build-a-great-engineering-culture)
 * [Kellan Elliott-McCrea of Etsy on Crafting a Strong Engineering Culture](https://www.path.to/inspiration/kellan-elliott-mccrea-etsy)
+* [Keith Rabois on the role of a COO, how to hire and why transparency matters](http://firstround.com/article/Keith-Rabois-on-the-role-of-a-COO-how-to-hire-and-why-transparency-matters)
 
 ### Counter-points:
 
