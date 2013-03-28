@@ -115,6 +115,7 @@ Inspiration
 * [Why firing brilliant assholes is required to build a great engineering culture - Joe Stump of sprint.ly](http://firstround.com/article/why-firing-brilliant-assholes-is-required-to-build-a-great-engineering-culture)
 * [Kellan Elliott-McCrea of Etsy on Crafting a Strong Engineering Culture](https://www.path.to/inspiration/kellan-elliott-mccrea-etsy)
 * [Keith Rabois on the role of a COO, how to hire and why transparency matters](http://firstround.com/article/Keith-Rabois-on-the-role-of-a-COO-how-to-hire-and-why-transparency-matters)
+* [Bill Moyers interviews Richard Wolff](http://www.youtube.com/watch?v=lpTOXKHRJlU&feature=youtu.be)
 
 ### Counter-points:
 
