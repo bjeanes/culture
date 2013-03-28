@@ -116,6 +116,8 @@ Inspiration
 * [Kellan Elliott-McCrea of Etsy on Crafting a Strong Engineering Culture](https://www.path.to/inspiration/kellan-elliott-mccrea-etsy)
 * [Keith Rabois on the role of a COO, how to hire and why transparency matters](http://firstround.com/article/Keith-Rabois-on-the-role-of-a-COO-how-to-hire-and-why-transparency-matters)
 * [Bill Moyers interviews Richard Wolff](http://www.youtube.com/watch?v=lpTOXKHRJlU&feature=youtu.be)
+* [Shift Change: Putting Democracy to Work](http://shiftchange.org/)
+* [Democracy at Work: A Cure for Capitalism](http://www.amazon.com/Democracy-at-Work-Cure-Capitalism/dp/1608462471) by Richard Wolff
 
 ### Counter-points:
 
