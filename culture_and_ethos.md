@@ -29,6 +29,7 @@ Ethos
   * Being upfront about risks, drawbacks, failings, etc., shows trust and fosters loyalty.
 * Collaboration
 * Don't avoid hard conversations
+* Remember that customers, colleagues, competition, and community are all people too. Be nice.
 
 ### People
 
