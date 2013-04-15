@@ -119,6 +119,7 @@ Inspiration
 * [Bill Moyers interviews Richard Wolff](http://www.youtube.com/watch?v=lpTOXKHRJlU&feature=youtu.be)
 * [Shift Change: Putting Democracy to Work](http://shiftchange.org/)
 * [Democracy at Work: A Cure for Capitalism](http://www.amazon.com/Democracy-at-Work-Cure-Capitalism/dp/1608462471) by Richard Wolff
+* [What makes us feel good about our work](http://www.ted.com/talks/dan_ariely_what_makes_us_feel_good_about_our_work.html)
 
 ### Counter-points:
 
