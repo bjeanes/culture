@@ -120,6 +120,7 @@ Inspiration
 * [Shift Change: Putting Democracy to Work](http://shiftchange.org/)
 * [Democracy at Work: A Cure for Capitalism](http://www.amazon.com/Democracy-at-Work-Cure-Capitalism/dp/1608462471) by Richard Wolff
 * [What makes us feel good about our work](http://www.ted.com/talks/dan_ariely_what_makes_us_feel_good_about_our_work.html)
+* [I Wish I Knew](https://medium.com/about-work/83f631458f64)
 
 ### Counter-points:
 
