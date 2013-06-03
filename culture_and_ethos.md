@@ -73,6 +73,7 @@ Ethos
 
 * [Ultimately, if you want people to make smart decisions, they need context and all available information.](http://firstround.com/article/Keith-Rabois-on-the-role-of-a-COO-how-to-hire-and-why-transparency-matters)
 * [Transparency builds trust. Some companies try to keep protected. You end up filtering so much, your people are really disconnected](http://www.fastcompany.com/3002493/terry-kelly-un-ceo-wl-gore-how-deal-chaos-grow)
+* [The Buffer Culture – Radical Transparency](http://www.slideshare.net/Bufferapp/buffer-culture-02)
 
 
 Inspiration
