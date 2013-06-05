@@ -24,6 +24,7 @@ Ethos
 * Plan around trust; allow for mistakes
   * If tempted to introduce a policy, ask whether or not it is needed because you don't trust everybody to do the right thing.
   * Mistakes are OK; expect them and learn from them.
+  * [Instead of adding a rule, hire better people so that you need less rules](http://www.youtube.com/watch?v=o3e1lnixKBM&feature=youtu.be&t=7m9s)
 * Transparency & Communication
   * Lack of transparency alienates people and fosters resentment.
   * Being upfront about risks, drawbacks, failings, etc., shows trust and fosters loyalty.
