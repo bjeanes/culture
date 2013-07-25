@@ -60,6 +60,7 @@ Ethos
 * Don't hire for teams. Hire great people, let them pick the team they want to be on.
   * Team can say no
   * Bad projects who can't compel people to join them will die. Let them.
+* [Interview should be about seeing if there is a symbiotic relationship possible between the employee and company.](http://glenngillen.com/thoughts/on-hiring)
 * Hire for culture fit first, talent second
 * Hire with "hell yes or no" mentality
 * Only hire people you can trust
