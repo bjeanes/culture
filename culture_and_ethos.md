@@ -65,6 +65,13 @@ Ethos
 * Hire with "hell yes or no" mentality
 * Only hire people you can trust
   * Policies/procedures are created when you can't trust your employees — i.e. you made bad hires.
+* Don't mistake "cultural fit" for homogeneity (gender, race, sexuality, or any superficial quality especially)
+  * cultural fit is about values and respect for each other (including respecting each other's differences)
+    * can you work together? 
+    * Can you have a reasoned conversation when you disagree? 
+    * Can you buy in to each other's plans even when they differ from your own?
+    * can you hold each other accountable?
+  * <blockquote>Monocultures are uninhabitably dull and end as deserts. </blockquote> — Stephen fry 
 
 #### Compensation
 
