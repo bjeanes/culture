@@ -31,6 +31,7 @@ Ethos
 * Collaboration
 * Don't avoid hard conversations
 * Remember that customers, colleagues, competition, and community are all people too. Be nice.
+* Simplify things. Make them less complex for you and your team. Good process, good teams, and good architectures all help to eliminate complexity in our systems.
 
 ### People
 
@@ -42,6 +43,7 @@ Ethos
 * High cohesion, low coupling — ([Highly aligned, loosely coupled](http://www.youtube.com/watch?v=o3e1lnixKBM#t=136s))
 * It doesn't matter when or how much you work, only that your peers trust you and feel like you are contributing fairly.
 * Employees are respected before, during, and after employment. Candidates and apprentices become teammates. Teammates become alumni.
+* Be a survivor. You will need to endure constant misalignment around organization structure, strategy, process, and culture. This is a tough job, so don't give up!
 
 #### Leadership
 
@@ -54,6 +56,7 @@ Ethos
   * They are great listeners and have a strong sense of awareness and empathy
   * They understand that if they spend their time growing people, that they too will grow in the process
   * They convince others rather than coercing compliance
+* [Build your leadership profile](https://medium.com/technology-leadership/6bbd04876469) 
 
 #### Hiring
 
@@ -131,6 +134,7 @@ Inspiration
 * [Democracy at Work: A Cure for Capitalism](http://www.amazon.com/Democracy-at-Work-Cure-Capitalism/dp/1608462471) by Richard Wolff
 * [What makes us feel good about our work](http://www.ted.com/talks/dan_ariely_what_makes_us_feel_good_about_our_work.html)
 * [I Wish I Knew](https://medium.com/about-work/83f631458f64)
+* [What makes a good engineering manager](https://medium.com/technology-leadership/a115aedf7df1)
 
 ### Counter-points:
 
