@@ -11,7 +11,7 @@ Ethos
 ### General
 
 * Make the right thing to do the easiest thing to do.
-* Solve problems by fixing the environment that allowed them to occur.
+* Solve problems by fixing the environment that allowed them to occur, utilize the ["5 whys" technique](http://en.wikipedia.org/wiki/5_Whys).
 * Investigate where (and how) processes and tasks could be automated, and [understanding the costs of automating them](http://www.kitchensoap.com/2012/09/21/a-mature-role-for-automation-part-i/) 
 * The worst thing we can do for happiness and productivity is disturb the culture.
 * The worst thing we can do to the culture is introduce tension.
